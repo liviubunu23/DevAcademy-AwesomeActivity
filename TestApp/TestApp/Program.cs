@@ -6,6 +6,8 @@ namespace TestApp
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //Add-new-feature
+
             // Add services to the container.
             builder.Services.AddRazorPages();
 
